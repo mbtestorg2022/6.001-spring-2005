@@ -6,58 +6,657 @@ uid: 032c5c9a-f4dd-5a0e-322a-3dff073dfb0c
 
 The calendar below provides information on the course's lecture (L), recitation (R), and quiz (Q) sessions. All lectures, except those labeled as live lectures, are online lectures. Students are expected to read the online lectures in preparation for recitations. All online lectures contain a set of programming exercises that must be completed and submitted online.
 
-| ses # | Topics | Key dates |
-| --- | --- | --- |
-| L1 | Introduction to Computation |  |
-| R1 | Introduction to Computation (cont.) |  |
-| L2 | Scheme Basics | Lectures 1-2 exercises due |
-| R2 | Scheme Basics (cont.) | Project 0 due |
-| L3 | Procedures, Processes, and Recursion | Problem set 1 due |
-| R3 | Procedures, Processes, and Recursion (cont.) |  |
-| L4 | Orders of Growth and Kinds of Procedures | Lectures 3-4 exercises due |
-| R4 | Orders of Growth and Kinds of Procedures (cont.) |  |
-| L5 | Data Abstraction | Problem set 2 due |
-| R5 | Data Abstraction (cont.) |  |
-| L6 | Higher Order Procedures | Lectures 5-6 exercises due |
-| R6 | Higher Order Procedures (cont.) | Project 1 due |
-| R7 | Higher Order Procedures (cont.) | Problem set 3 due |
-| L7 | Good Programming Practices |  |
-| R8 | Good Programming Practices (cont.) |  |
-| L8 | Using Higher Order Procedures |  |
-| Q1 | Quiz 1 |  |
-| L9 | Symbols and Quotation | Lectures 7-9 exercises due |
-| R9 | Symbols and Quotation (cont.) |  |
-| L10 | Tagged Data | Problem set 4 due |
-| R10 | Tagged Data (cont.) |  |
-| L11 | Advanced Data Types | Lectures 10-11 exercises due |
-| R11 | Advanced Data Types (cont.) | Project 2 due |
-| L12 | Data Mutation | Problem set 5 due |
-| R12 | Data Mutation (cont.) |  |
-| L13 | _Live Lecture_: Trees, Graphs and Search | Lectures 12-13 exercises due |
-| R13 | Trees, Graphs and Search (cont.) |  |
-| L14 | _Live Lecture_: Graphs and Search | Problem set 6 due |
-| R14 | Graphs and Search (cont.) |  |
-| L15 | Environment Model | Lectures 14-15 exercises due |
-| R15 | Environment Model (cont.) | Project 3 due |
-| L16 | Object Oriented Programming I | Problem set 7 due |
-| R16 | Object Oriented Programming I (cont.) |  |
-| L17 | Object Oriented Programming II | Lectures 16-17 exercises due |
-| R17 | Object Oriented Programming II (cont.) |  |
-| L18 | Object Oriented Programming III | Problem set 8 due |
-| R18 | Object Oriented Programming III (cont.) |  |
-| L19 | Interpretation |  |
-| R19 | Interpretation (cont.) | Project 4 due |
-| Q2 | Quiz 2 |  |
-| L20 | The Meta-circular Evaluator | Lectures 18-20 exercises due |
-| R20 | The Meta-circular Evaluator (cont.) |  |
-| L21 | Lazy Evaluation | Problem set 9 due |
-| R21 | Lazy Evaluation (cont.) |  |
-| L22 | Asynchronous Computing | Lectures 21-22 exercises due |
-| R22 | Asynchronous Computing (cont.) |  |
-| L23 | Universal Machines | Problem set 10 due |
-| R23 | Universal Machines (cont.) |  |
-| L24 | _Live Lecture_: Geometric Folding Algorithms: Origami, Linkages, and Polyhedra (Guest lecture by Erik Demaine) | Lectures 23-24 exercises due |
-| R24 | Geometric Folding Algorithms (cont.) | Project 5 due |
-| L25 | _Live Lecture_: Peer-To-Peer Computing Research: A Fad? (Guest lecture by Frans Kaashoek) |  |
-| R25 | Peer-To-Peer Computing Research (cont.) |  |
-| L26 | Computability | Lectures 25-26 exercises due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Computation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Computation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Scheme Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 1-2 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Scheme Basics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Project 0 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Procedures, Processes, and Recursion
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Procedures, Processes, and Recursion (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Orders of Growth and Kinds of Procedures
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 3-4 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Orders of Growth and Kinds of Procedures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Data Abstraction
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Data Abstraction (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Higher Order Procedures
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 5-6 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Higher Order Procedures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Higher Order Procedures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Good Programming Practices
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Good Programming Practices (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Using Higher Order Procedures
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q1
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Symbols and Quotation
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 7-9 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Symbols and Quotation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Tagged Data
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Tagged Data (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Data Types
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 10-11 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R11
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Data Types (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Data Mutation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R12
+{{< tdclose >}}
+{{< tdopen >}}
+Data Mutation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+_Live Lecture_: Trees, Graphs and Search
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 12-13 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R13
+{{< tdclose >}}
+{{< tdopen >}}
+Trees, Graphs and Search (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+_Live Lecture_: Graphs and Search
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R14
+{{< tdclose >}}
+{{< tdopen >}}
+Graphs and Search (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Environment Model
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 14-15 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R15
+{{< tdclose >}}
+{{< tdopen >}}
+Environment Model (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Project 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Object Oriented Programming I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R16
+{{< tdclose >}}
+{{< tdopen >}}
+Object Oriented Programming I (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Object Oriented Programming II
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 16-17 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R17
+{{< tdclose >}}
+{{< tdopen >}}
+Object Oriented Programming II (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Object Oriented Programming III
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R18
+{{< tdclose >}}
+{{< tdopen >}}
+Object Oriented Programming III (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Interpretation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R19
+{{< tdclose >}}
+{{< tdopen >}}
+Interpretation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Project 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+The Meta-circular Evaluator
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 18-20 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R20
+{{< tdclose >}}
+{{< tdopen >}}
+The Meta-circular Evaluator (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Lazy Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R21
+{{< tdclose >}}
+{{< tdopen >}}
+Lazy Evaluation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Asynchronous Computing
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 21-22 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R22
+{{< tdclose >}}
+{{< tdopen >}}
+Asynchronous Computing (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Universal Machines
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R23
+{{< tdclose >}}
+{{< tdopen >}}
+Universal Machines (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+_Live Lecture_: Geometric Folding Algorithms: Origami, Linkages, and Polyhedra (Guest lecture by Erik Demaine)
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 23-24 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R24
+{{< tdclose >}}
+{{< tdopen >}}
+Geometric Folding Algorithms (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Project 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+_Live Lecture_: Peer-To-Peer Computing Research: A Fad? (Guest lecture by Frans Kaashoek)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R25
+{{< tdclose >}}
+{{< tdopen >}}
+Peer-To-Peer Computing Research (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Computability
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 25-26 exercises due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

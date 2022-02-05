@@ -138,13 +138,66 @@ In case of illness or absence from MIT, make arrangements to complete assignment
 
 Your grade in 6.001 will be determined by the following approximate weighting (though the staff reserves the right to consider other factors such as participation in adjusting this formula):
 
-| activities | percentages |
-| --- | --- |
-| Two Mid-term Quizzes | 25% |
-| Final Exam | 25% |
-| Projects | 30% |
-| Problem Sets | 10% |
-| Course Participation in Recitations and Tutorials | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Mid-term Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Projects
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Course Participation in Recitations and Tutorials
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 However, **you must do the projects to pass the course**; a passing grade based on the other parts may be converted to a failing grade if you do not turn in all the projects, where turning in a project means including a serious attempt to complete each project.
 
