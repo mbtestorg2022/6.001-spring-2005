@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: 89775783-1f04-f40c-3f68-ee415df41c28
 title: A Note About DrScheme
 uid: c2d4cdea-aa1d-3f48-04e1-507a4d93aa69

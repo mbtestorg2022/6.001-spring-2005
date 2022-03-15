@@ -6,6 +6,12 @@ description: 'This file explains the following topics:
   of infinity: countability, the Halting theorem, and recursion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/1a7a2b65b4f890d46d7cebced9ba85d6_lecture26webhan.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+parent_uid: 7651cc87-35de-317d-15a6-1e98f980b9a8
 resourcetype: Document
 title: lecture26webhan.pdf
 uid: 1a7a2b65-b4f8-90d4-6d7c-ebced9ba85d6

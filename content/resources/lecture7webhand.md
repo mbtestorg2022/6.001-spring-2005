@@ -7,6 +7,12 @@ description: 'This file explains briefly the several methodological aspects of c
   lead to efficient and effective generation of code.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/03e0268a995c2575b1039dd867c8068b_lecture7webhand.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+parent_uid: 7651cc87-35de-317d-15a6-1e98f980b9a8
 resourcetype: Document
 title: lecture7webhand.pdf
 uid: 03e0268a-995c-2575-b103-9dd867c8068b

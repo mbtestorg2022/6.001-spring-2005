@@ -7,6 +7,12 @@ description: 'This file gives code for the following:
   loop, and representing thunks.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/9ec3045d4d325e148571157b4e339bba_lecture21lazyeva.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+parent_uid: 7651cc87-35de-317d-15a6-1e98f980b9a8
 resourcetype: Document
 title: lecture21lazyeva.pdf
 uid: 9ec3045d-4d32-5e14-8571-157b4e339bba

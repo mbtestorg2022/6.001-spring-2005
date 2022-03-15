@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: 89775783-1f04-f40c-3f68-ee415df41c28
 title: "6.001 Scheme Installation for Linux\xAE"
 uid: c0470b4e-1265-33af-50df-b7ba73eff790

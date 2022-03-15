@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: 89775783-1f04-f40c-3f68-ee415df41c28
 title: "6.001 Scheme for Windows\xAE Machines"
 uid: 97837e0b-dc4b-1583-8742-34ff71ef5fec
